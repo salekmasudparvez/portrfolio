@@ -216,7 +216,10 @@ nav{
   color: white;
 }
 @media(max-width:768px){
-  .section4{text-align: center}
+  .section4{
+     text-align: center
+     font-size:30%;
+  }
   }
 
 /* Scetion-4 End */
